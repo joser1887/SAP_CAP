@@ -1,0 +1,3 @@
+ID,Product,ProductName,Description,category_ID,SubCategory_ID,Status_code,Price,Rating,Currency,detail_ID,supplier_ID,createdAt,createdBy,modifiedAt,modifiedBy
+e0637c42-0c24-41ad-85b6-2a2b69dfd8cd,PRD001,Coca-Cola,Bebida gaseosa clásica,f8e5195a-e1b0-4d83-8b23-3f8fcb8b2501,b75ac263-c5b4-4d84-b4c7-eef4fa6d5455,InStock,3500.00,4.5,COP,b5091ea7-36e7-42f1-8f9a-d88a5c03b84d,168c68fa-9c92-4d7e-a402-81e9d70b91c0,2025-07-20T10:00:00Z,jr,2025-07-22T12:00:00Z,jr
+9359fd7b-d3de-4741-a7e3-85fe4e330b7f,PRD002,Margarita BBQ,Snacks de papas sabor BBQ,a41f625d-6e63-40f3-82ea-2cb92f0fd27d,02be04a4-607c-4700-b6bb-f760a6ffcfb0,LowAvailability,2800.00,4.0,COP,b4c7b059-e7c1-4464-bd49-4ac86149c0a4,ea9610d6-1d69-4f4d-859e-26e8716a3583,2025-07-20T10:00:00Z,jr,2025-07-22T12:00:00Z,jr

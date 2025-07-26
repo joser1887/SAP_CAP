@@ -1,0 +1,4 @@
+code,name,descr,criticality
+InStock,"In Stock","Producto disponible para entrega inmediata",3
+OutStock,"Out of Stock","Producto actualmente no disponible",1
+LowAvailability,"Low Availability","Quedan pocas unidades del producto",2

@@ -1,0 +1,3 @@
+ID,stockNumber,deparment_ID,min,max,target,quantiti,baseUnit,Product_ID
+779cbd93-5800-4c5e-b2d1-5c112a252ff8,STK001,31375b67-7a38-49a7-a3f7-98a37baf0b92,50,200,100,72.500,EA,e0637c42-0c24-41ad-85b6-2a2b69dfd8cd
+ab865c11-6b2f-4426-bf9c-b1b47e79b998,STK002,8e064a12-5047-4e4e-bb48-bad738de22ff,20,100,50,30.000,EA,9359fd7b-d3de-4741-a7e3-85fe4e330b7f

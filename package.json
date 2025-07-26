@@ -17,6 +17,6 @@
     "@cap-js/cds-types": "^0.11.0"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve --profile dev"
   }
 }
